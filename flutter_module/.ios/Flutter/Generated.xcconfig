@@ -1,8 +1,9 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=D:\Android\flutter
-FLUTTER_APPLICATION_PATH=F:\_android_workspace\Andriod-FTPServer-with-FLutter\flutter_module
-FLUTTER_TARGET=lib\main.dart
+FLUTTER_ROOT=/Users/ray/Library/flutter
+FLUTTER_APPLICATION_PATH=/Users/ray/Desktop/FTPServer/flutter_module
+FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
-SYMROOT=${SOURCE_ROOT}/../build\ios
+SYMROOT=${SOURCE_ROOT}/../build/ios
+OTHER_LDFLAGS=$(inherited) -framework Flutter
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
